@@ -4,7 +4,7 @@ class AudioManager {
   constructor() {
     this.audioContext = null;
     this.audioBuffer = null;
-    this.soundUrl = 'assets/click.wav';
+    this.soundUrl = '/assets/click.wav';
     this.init();
   }
 

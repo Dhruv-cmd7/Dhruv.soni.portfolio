@@ -1,4 +1,8 @@
-with open('style.css', 'r', encoding='utf-8') as f:
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parents[2]
+
+with open(ROOT / 'assets/css/style.css', 'r', encoding='utf-8') as f:
     css = f.read()
 
 open_braces = css.count('{')
