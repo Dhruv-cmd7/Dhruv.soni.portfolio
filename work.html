@@ -1,8 +1,120 @@
 <!doctype html>
-<!-- Made in Framer · framer.com ✨ -->
-<!-- Published May 10, 2026, 2:48 PM UTC -->
+
+
 <html lang="en" data-redirect-timezone="1" dir="ltr">
-<head>
+<head>
+<script id="framer-branding-remover">
+(function() {
+  const style = document.createElement('style');
+  style.innerHTML = `
+    /* Hide Made in Framer watermark badge */
+    #__framer-badge-container, 
+    .__framer-badge,
+    a[class*="__framer-badge"] {
+      display: none !important;
+      visibility: hidden !important;
+      opacity: 0 !important;
+      pointer-events: none !important;
+    }
+
+    /* Hide Remix badge/button */
+    #9n7wa9, 
+    .framer-9n7wa9 {
+      display: none !important;
+      visibility: hidden !important;
+      opacity: 0 !important;
+      pointer-events: none !important;
+    }
+
+    /* Hide Shader Preview popup, its dimming backdrop, and its fixed overlay container */
+    .framer-dsv1xg-container,
+    div:has(> .framer-1exlhbs),
+    div:has(> div > .framer-1exlhbs),
+    div:has(> div > div > .framer-1exlhbs),
+    .framer-1exlhbs {
+      display: none !important;
+      visibility: hidden !important;
+      opacity: 0 !important;
+      pointer-events: none !important;
+    }
+  `;
+  document.head.appendChild(style);
+
+  // Safely enforce hidden style on dynamic elements to prevent dimming or blocking clicks
+  const enforceHidden = () => {
+    // 1. Made in Framer badge
+    const badgeContainer = document.getElementById('__framer-badge-container');
+    if (badgeContainer) {
+      badgeContainer.style.setProperty('display', 'none', 'important');
+      badgeContainer.style.setProperty('pointer-events', 'none', 'important');
+      badgeContainer.style.setProperty('opacity', '0', 'important');
+    }
+    const badges = document.querySelectorAll('.__framer-badge');
+    badges.forEach(b => {
+      b.style.setProperty('display', 'none', 'important');
+      b.style.setProperty('pointer-events', 'none', 'important');
+      b.style.setProperty('opacity', '0', 'important');
+    });
+
+    // 2. Remix badge
+    const remixBtn = document.getElementById('9n7wa9');
+    if (remixBtn) {
+      remixBtn.style.setProperty('display', 'none', 'important');
+      remixBtn.style.setProperty('pointer-events', 'none', 'important');
+      remixBtn.style.setProperty('opacity', '0', 'important');
+    }
+    const remixCls = document.querySelectorAll('.framer-9n7wa9');
+    remixCls.forEach(r => {
+      r.style.setProperty('display', 'none', 'important');
+      r.style.setProperty('pointer-events', 'none', 'important');
+      r.style.setProperty('opacity', '0', 'important');
+    });
+
+    // 3. Shader popup containers
+    const popupContent = document.querySelectorAll('.framer-1exlhbs');
+    popupContent.forEach(popup => {
+      popup.style.setProperty('display', 'none', 'important');
+      popup.style.setProperty('pointer-events', 'none', 'important');
+      
+      const parent = popup.parentElement;
+      if (parent) {
+        parent.style.setProperty('display', 'none', 'important');
+        parent.style.setProperty('pointer-events', 'none', 'important');
+        
+        const grandparent = parent.parentElement;
+        if (grandparent) {
+          grandparent.style.setProperty('display', 'none', 'important');
+          grandparent.style.setProperty('pointer-events', 'none', 'important');
+          
+          const ggrandparent = grandparent.parentElement;
+          if (ggrandparent && (ggrandparent.classList.contains('framer-dsv1xg-container') || ggrandparent.parentElement === null)) {
+            ggrandparent.style.setProperty('display', 'none', 'important');
+            ggrandparent.style.setProperty('pointer-events', 'none', 'important');
+          }
+        }
+      }
+    });
+
+    // Directly hide the dsv1xg container if present
+    const dsvContainers = document.querySelectorAll('.framer-dsv1xg-container');
+    dsvContainers.forEach(c => {
+      c.style.setProperty('display', 'none', 'important');
+      c.style.setProperty('pointer-events', 'none', 'important');
+      c.style.setProperty('opacity', '0', 'important');
+    });
+  };
+
+  document.addEventListener('DOMContentLoaded', enforceHidden);
+  window.addEventListener('load', enforceHidden);
+  
+  const observer = new MutationObserver(enforceHidden);
+  observer.observe(document.documentElement, {
+    childList: true,
+    subtree: true
+  });
+})();
+</script>
+
 	<meta charset="utf-8">
 	
 	
