@@ -1,0 +1,493 @@
+[
+  {
+    "id": {
+      "type": "String",
+      "value": "mIkhORqHs"
+    },
+    "createdAt": {
+      "type": "Date",
+      "value": "2026-01-20T13:32:16.280Z"
+    },
+    "updatedAt": {
+      "type": "Date",
+      "value": "2026-04-23T19:00:06.664Z"
+    },
+    "nextItemId": {
+      "type": "String",
+      "value": "YdpPRBNz9"
+    },
+    "EYQHoD02s": {
+      "type": "String",
+      "value": "Portfolio Template"
+    },
+    "JAUP8TSMy": {
+      "type": "String",
+      "value": "Instead of juggling outdated files, simply share one link — giving stakeholders instant access to the most up-to-date guidelines. Fully responsive, easy to edit, and designed to scale, it’s the smarter way to keep your brand consistent and engaging.\n"
+    },
+    "GuHqIwurN": {
+      "type": "String",
+      "value": "Webdesign"
+    },
+    "NKP0MCUkZ": {
+      "type": "String",
+      "value": "Jacob Schneider"
+    },
+    "U7hlzB8RK": {
+      "type": "Link",
+      "value": "https://www.framer.com/marketplace/templates/schneider/"
+    },
+    "Ur4SttHa6": {
+      "type": "String",
+      "value": "portfolio-template"
+    },
+    "DlazAUCKO": {
+      "type": "Date",
+      "value": "2026-01-19T00:00:00.000Z"
+    },
+    "Rlih7XiX5": {
+      "type": "ResponsiveImage",
+      "value": {
+        "src": "https://framerusercontent.com/images/MPlqllCi0Q7pdNVtBP2L2Lmraes.png?width=2396&height=1516",
+        "srcSet": "https://framerusercontent.com/images/MPlqllCi0Q7pdNVtBP2L2Lmraes.png?scale-down-to=512&width=2396&height=1516 512w,https://framerusercontent.com/images/MPlqllCi0Q7pdNVtBP2L2Lmraes.png?scale-down-to=1024&width=2396&height=1516 1024w,https://framerusercontent.com/images/MPlqllCi0Q7pdNVtBP2L2Lmraes.png?scale-down-to=2048&width=2396&height=1516 2048w,https://framerusercontent.com/images/MPlqllCi0Q7pdNVtBP2L2Lmraes.png?width=2396&height=1516 2396w",
+        "pixelWidth": 2396,
+        "pixelHeight": 1516
+      }
+    },
+    "J09A9r88S": {
+      "type": "ResponsiveImage",
+      "value": {
+        "src": "https://framerusercontent.com/images/KLaiRZblwiLg98JXtET5nc9c6JA.png?width=1873&height=1405",
+        "srcSet": "https://framerusercontent.com/images/KLaiRZblwiLg98JXtET5nc9c6JA.png?scale-down-to=512&width=1873&height=1405 512w,https://framerusercontent.com/images/KLaiRZblwiLg98JXtET5nc9c6JA.png?scale-down-to=1024&width=1873&height=1405 1024w,https://framerusercontent.com/images/KLaiRZblwiLg98JXtET5nc9c6JA.png?width=1873&height=1405 1873w",
+        "pixelWidth": 1873,
+        "pixelHeight": 1405
+      }
+    },
+    "RvHgf0b4X": {
+      "type": "ResponsiveImage",
+      "value": {
+        "src": "https://framerusercontent.com/images/4qGsXCNxCJbEgm1amHqB91IAy30.png?width=1600&height=1200",
+        "srcSet": "https://framerusercontent.com/images/4qGsXCNxCJbEgm1amHqB91IAy30.png?scale-down-to=512&width=1600&height=1200 512w,https://framerusercontent.com/images/4qGsXCNxCJbEgm1amHqB91IAy30.png?scale-down-to=1024&width=1600&height=1200 1024w,https://framerusercontent.com/images/4qGsXCNxCJbEgm1amHqB91IAy30.png?width=1600&height=1200 1600w",
+        "pixelWidth": 1600,
+        "pixelHeight": 1200
+      }
+    },
+    "Vkfmo1sHm": {
+      "type": "Boolean",
+      "value": true
+    },
+    "SayF5mv2W": {
+      "type": "ResponsiveImage",
+      "value": {
+        "src": "https://framerusercontent.com/images/7UTjdzcBTDxVKKSkjmXAWR72qg.png?width=2398&height=1514",
+        "srcSet": "https://framerusercontent.com/images/7UTjdzcBTDxVKKSkjmXAWR72qg.png?scale-down-to=512&width=2398&height=1514 512w,https://framerusercontent.com/images/7UTjdzcBTDxVKKSkjmXAWR72qg.png?scale-down-to=1024&width=2398&height=1514 1024w,https://framerusercontent.com/images/7UTjdzcBTDxVKKSkjmXAWR72qg.png?scale-down-to=2048&width=2398&height=1514 2048w,https://framerusercontent.com/images/7UTjdzcBTDxVKKSkjmXAWR72qg.png?width=2398&height=1514 2398w",
+        "pixelWidth": 2398,
+        "pixelHeight": 1514
+      }
+    },
+    "dMNfQRUur": {
+      "type": "String",
+      "value": "Instead of juggling outdated files, simply share one link — giving stakeholders instant access to the most up-to-date guidelines. Fully responsive, easy to edit, and designed to scale, it’s the smarter way to keep your brand consistent and engaging."
+    },
+    "p1hJ56pgX": {
+      "type": "Boolean",
+      "value": true
+    },
+    "KwBBA4QOF": {
+      "type": "Boolean",
+      "value": true
+    },
+    "h4eFqeqbu": {
+      "type": "ResponsiveImage",
+      "value": {
+        "src": "https://framerusercontent.com/images/9k5mJyyLiJN7ljQgnJkaq2Ssqx4.png?width=2804&height=1518",
+        "srcSet": "https://framerusercontent.com/images/9k5mJyyLiJN7ljQgnJkaq2Ssqx4.png?scale-down-to=512&width=2804&height=1518 512w,https://framerusercontent.com/images/9k5mJyyLiJN7ljQgnJkaq2Ssqx4.png?scale-down-to=1024&width=2804&height=1518 1024w,https://framerusercontent.com/images/9k5mJyyLiJN7ljQgnJkaq2Ssqx4.png?scale-down-to=2048&width=2804&height=1518 2048w,https://framerusercontent.com/images/9k5mJyyLiJN7ljQgnJkaq2Ssqx4.png?width=2804&height=1518 2804w",
+        "pixelWidth": 2804,
+        "pixelHeight": 1518
+      }
+    },
+    "u1Ii1mqNz": {
+      "type": "Boolean",
+      "value": true
+    },
+    "xnkM_RCGj": {
+      "type": "ResponsiveImage",
+      "value": {
+        "src": "https://framerusercontent.com/images/eisROWHgil0vfca1aT0Gn896b8.png?width=2398&height=1522",
+        "srcSet": "https://framerusercontent.com/images/eisROWHgil0vfca1aT0Gn896b8.png?scale-down-to=512&width=2398&height=1522 512w,https://framerusercontent.com/images/eisROWHgil0vfca1aT0Gn896b8.png?scale-down-to=1024&width=2398&height=1522 1024w,https://framerusercontent.com/images/eisROWHgil0vfca1aT0Gn896b8.png?scale-down-to=2048&width=2398&height=1522 2048w,https://framerusercontent.com/images/eisROWHgil0vfca1aT0Gn896b8.png?width=2398&height=1522 2398w",
+        "pixelWidth": 2398,
+        "pixelHeight": 1522
+      }
+    },
+    "NO5E1UpCq": {
+      "type": "Boolean",
+      "value": true
+    },
+    "imaqKUf3j": {
+      "type": "ResponsiveImage",
+      "value": {
+        "src": "https://framerusercontent.com/images/QtQYCUIbFC5mm1BtRbNuf7NfQk.png?width=2402&height=1520",
+        "srcSet": "https://framerusercontent.com/images/QtQYCUIbFC5mm1BtRbNuf7NfQk.png?scale-down-to=512&width=2402&height=1520 512w,https://framerusercontent.com/images/QtQYCUIbFC5mm1BtRbNuf7NfQk.png?scale-down-to=1024&width=2402&height=1520 1024w,https://framerusercontent.com/images/QtQYCUIbFC5mm1BtRbNuf7NfQk.png?scale-down-to=2048&width=2402&height=1520 2048w,https://framerusercontent.com/images/QtQYCUIbFC5mm1BtRbNuf7NfQk.png?width=2402&height=1520 2402w",
+        "pixelWidth": 2402,
+        "pixelHeight": 1520
+      }
+    },
+    "lC70vbB89": {
+      "type": "Boolean",
+      "value": true
+    },
+    "XwriFR3wA": {
+      "type": "File",
+      "value": "https://framerusercontent.com/assets/OwtfmkhHh7uvsUWnoJGviMruRq8.mov"
+    }
+  },
+  {
+    "id": {
+      "type": "String",
+      "value": "YdpPRBNz9"
+    },
+    "createdAt": {
+      "type": "Date",
+      "value": "2026-01-20T13:32:16.280Z"
+    },
+    "updatedAt": {
+      "type": "Date",
+      "value": "2026-04-23T19:00:09.753Z"
+    },
+    "previousItemId": {
+      "type": "String",
+      "value": "mIkhORqHs"
+    },
+    "nextItemId": {
+      "type": "String",
+      "value": "FkD5UpCuR"
+    },
+    "EYQHoD02s": {
+      "type": "String",
+      "value": "Letters"
+    },
+    "JAUP8TSMy": {
+      "type": "String",
+      "value": "Leave behind static PDFs and upgrade to a truly interactive brand experience. This Framer template gives modern brands and creative teams a flexible, always-available hub for everything brand-related. Instead of juggling outdated files, simply share one link — giving stakeholders instant access to the most up-to-date guidelines. Fully responsive, easy to edit, and designed to scale, it’s the smarter way to keep your brand consistent and engaging."
+    },
+    "GuHqIwurN": {
+      "type": "String",
+      "value": "Webdesign"
+    },
+    "NKP0MCUkZ": {
+      "type": "String",
+      "value": "Jacob Schneider"
+    },
+    "U7hlzB8RK": {
+      "type": "Link",
+      "value": "https://www.nonstopbrandingagency.com/"
+    },
+    "Ur4SttHa6": {
+      "type": "String",
+      "value": "letters"
+    },
+    "DlazAUCKO": {
+      "type": "Date",
+      "value": "2026-01-12T00:00:00.000Z"
+    },
+    "Rlih7XiX5": {
+      "type": "ResponsiveImage",
+      "value": {
+        "src": "https://framerusercontent.com/images/QY0gHCbqHqNnJbdvDi7PbCFGz8.png?width=2940&height=1836",
+        "srcSet": "https://framerusercontent.com/images/QY0gHCbqHqNnJbdvDi7PbCFGz8.png?scale-down-to=512&width=2940&height=1836 512w,https://framerusercontent.com/images/QY0gHCbqHqNnJbdvDi7PbCFGz8.png?scale-down-to=1024&width=2940&height=1836 1024w,https://framerusercontent.com/images/QY0gHCbqHqNnJbdvDi7PbCFGz8.png?scale-down-to=2048&width=2940&height=1836 2048w,https://framerusercontent.com/images/QY0gHCbqHqNnJbdvDi7PbCFGz8.png?width=2940&height=1836 2940w",
+        "pixelWidth": 2940,
+        "pixelHeight": 1836,
+        "alt": "A dark-themed digital screen display with the text: \"Lightning fast ideas in a single click.\""
+      }
+    },
+    "J09A9r88S": {
+      "type": "ResponsiveImage",
+      "value": {
+        "src": "https://framerusercontent.com/images/KKmUCnP8GuyBrZl5ps5nD1WBnkE.png?width=2940&height=1836",
+        "srcSet": "https://framerusercontent.com/images/KKmUCnP8GuyBrZl5ps5nD1WBnkE.png?scale-down-to=512&width=2940&height=1836 512w,https://framerusercontent.com/images/KKmUCnP8GuyBrZl5ps5nD1WBnkE.png?scale-down-to=1024&width=2940&height=1836 1024w,https://framerusercontent.com/images/KKmUCnP8GuyBrZl5ps5nD1WBnkE.png?scale-down-to=2048&width=2940&height=1836 2048w,https://framerusercontent.com/images/KKmUCnP8GuyBrZl5ps5nD1WBnkE.png?width=2940&height=1836 2940w",
+        "pixelWidth": 2940,
+        "pixelHeight": 1836
+      }
+    },
+    "RvHgf0b4X": {
+      "type": "ResponsiveImage",
+      "value": {
+        "src": "https://framerusercontent.com/images/alIxy4PoiOpl4hCCdd7iurFBEA.png?width=2940&height=1836",
+        "srcSet": "https://framerusercontent.com/images/alIxy4PoiOpl4hCCdd7iurFBEA.png?scale-down-to=512&width=2940&height=1836 512w,https://framerusercontent.com/images/alIxy4PoiOpl4hCCdd7iurFBEA.png?scale-down-to=1024&width=2940&height=1836 1024w,https://framerusercontent.com/images/alIxy4PoiOpl4hCCdd7iurFBEA.png?scale-down-to=2048&width=2940&height=1836 2048w,https://framerusercontent.com/images/alIxy4PoiOpl4hCCdd7iurFBEA.png?width=2940&height=1836 2940w",
+        "pixelWidth": 2940,
+        "pixelHeight": 1836
+      }
+    },
+    "Vkfmo1sHm": {
+      "type": "Boolean",
+      "value": true
+    },
+    "dMNfQRUur": {
+      "type": "String",
+      "value": ""
+    },
+    "p1hJ56pgX": {
+      "type": "Boolean",
+      "value": false
+    },
+    "KwBBA4QOF": {
+      "type": "Boolean",
+      "value": false
+    },
+    "h4eFqeqbu": {
+      "type": "ResponsiveImage",
+      "value": {
+        "src": "https://framerusercontent.com/images/alIxy4PoiOpl4hCCdd7iurFBEA.png?width=2940&height=1836",
+        "srcSet": "https://framerusercontent.com/images/alIxy4PoiOpl4hCCdd7iurFBEA.png?scale-down-to=512&width=2940&height=1836 512w,https://framerusercontent.com/images/alIxy4PoiOpl4hCCdd7iurFBEA.png?scale-down-to=1024&width=2940&height=1836 1024w,https://framerusercontent.com/images/alIxy4PoiOpl4hCCdd7iurFBEA.png?scale-down-to=2048&width=2940&height=1836 2048w,https://framerusercontent.com/images/alIxy4PoiOpl4hCCdd7iurFBEA.png?width=2940&height=1836 2940w",
+        "pixelWidth": 2940,
+        "pixelHeight": 1836
+      }
+    },
+    "u1Ii1mqNz": {
+      "type": "Boolean",
+      "value": true
+    },
+    "NO5E1UpCq": {
+      "type": "Boolean",
+      "value": false
+    },
+    "lC70vbB89": {
+      "type": "Boolean",
+      "value": false
+    }
+  },
+  {
+    "id": {
+      "type": "String",
+      "value": "FkD5UpCuR"
+    },
+    "createdAt": {
+      "type": "Date",
+      "value": "2026-01-20T13:32:16.280Z"
+    },
+    "updatedAt": {
+      "type": "Date",
+      "value": "2026-04-23T19:00:12.690Z"
+    },
+    "previousItemId": {
+      "type": "String",
+      "value": "YdpPRBNz9"
+    },
+    "nextItemId": {
+      "type": "String",
+      "value": "FhNy_F1cS"
+    },
+    "EYQHoD02s": {
+      "type": "String",
+      "value": "Brandguidelines"
+    },
+    "JAUP8TSMy": {
+      "type": "String",
+      "value": "Leave behind static PDFs and upgrade to a truly interactive brand experience. This Framer template gives modern brands and creative teams a flexible, always-available hub for everything brand-related. Instead of juggling outdated files, simply share one link — giving stakeholders instant access to the most up-to-date guidelines. Fully responsive, easy to edit, and designed to scale, it’s the smarter way to keep your brand consistent and engaging."
+    },
+    "GuHqIwurN": {
+      "type": "String",
+      "value": "Webdesign"
+    },
+    "NKP0MCUkZ": {
+      "type": "String",
+      "value": "Jacob Schneider"
+    },
+    "U7hlzB8RK": {
+      "type": "Link",
+      "value": "https://www.museumvilla.com/"
+    },
+    "Ur4SttHa6": {
+      "type": "String",
+      "value": "brandguidelines"
+    },
+    "DlazAUCKO": {
+      "type": "Date",
+      "value": "2025-12-15T00:00:00.000Z"
+    },
+    "Rlih7XiX5": {
+      "type": "ResponsiveImage",
+      "value": {
+        "src": "https://framerusercontent.com/images/Ke3QuqIvdK7Zvzc3g99rVorB4h8.png?width=2400&height=1546",
+        "srcSet": "https://framerusercontent.com/images/Ke3QuqIvdK7Zvzc3g99rVorB4h8.png?scale-down-to=512&width=2400&height=1546 512w,https://framerusercontent.com/images/Ke3QuqIvdK7Zvzc3g99rVorB4h8.png?scale-down-to=1024&width=2400&height=1546 1024w,https://framerusercontent.com/images/Ke3QuqIvdK7Zvzc3g99rVorB4h8.png?scale-down-to=2048&width=2400&height=1546 2048w,https://framerusercontent.com/images/Ke3QuqIvdK7Zvzc3g99rVorB4h8.png?width=2400&height=1546 2400w",
+        "pixelWidth": 2400,
+        "pixelHeight": 1546,
+        "alt": "Orange Flower"
+      }
+    },
+    "J09A9r88S": {
+      "type": "ResponsiveImage",
+      "value": {
+        "src": "https://framerusercontent.com/images/nLO4oC8HI4uZ5IVwGvfl8S4zwk.png?width=2400&height=1546",
+        "srcSet": "https://framerusercontent.com/images/nLO4oC8HI4uZ5IVwGvfl8S4zwk.png?scale-down-to=512&width=2400&height=1546 512w,https://framerusercontent.com/images/nLO4oC8HI4uZ5IVwGvfl8S4zwk.png?scale-down-to=1024&width=2400&height=1546 1024w,https://framerusercontent.com/images/nLO4oC8HI4uZ5IVwGvfl8S4zwk.png?scale-down-to=2048&width=2400&height=1546 2048w,https://framerusercontent.com/images/nLO4oC8HI4uZ5IVwGvfl8S4zwk.png?width=2400&height=1546 2400w",
+        "pixelWidth": 2400,
+        "pixelHeight": 1546
+      }
+    },
+    "RvHgf0b4X": {
+      "type": "ResponsiveImage",
+      "value": {
+        "src": "https://framerusercontent.com/images/g1PLwmRU5mUAYeHObL2eehyCVRk.png?width=2400&height=1546",
+        "srcSet": "https://framerusercontent.com/images/g1PLwmRU5mUAYeHObL2eehyCVRk.png?scale-down-to=512&width=2400&height=1546 512w,https://framerusercontent.com/images/g1PLwmRU5mUAYeHObL2eehyCVRk.png?scale-down-to=1024&width=2400&height=1546 1024w,https://framerusercontent.com/images/g1PLwmRU5mUAYeHObL2eehyCVRk.png?scale-down-to=2048&width=2400&height=1546 2048w,https://framerusercontent.com/images/g1PLwmRU5mUAYeHObL2eehyCVRk.png?width=2400&height=1546 2400w",
+        "pixelWidth": 2400,
+        "pixelHeight": 1546
+      }
+    },
+    "Vkfmo1sHm": {
+      "type": "Boolean",
+      "value": true
+    },
+    "SayF5mv2W": {
+      "type": "ResponsiveImage",
+      "value": {
+        "src": "https://framerusercontent.com/images/spBrMHSJDqNqrnF6AmRafGOyfR8.png?width=2400&height=1546",
+        "srcSet": "https://framerusercontent.com/images/spBrMHSJDqNqrnF6AmRafGOyfR8.png?scale-down-to=512&width=2400&height=1546 512w,https://framerusercontent.com/images/spBrMHSJDqNqrnF6AmRafGOyfR8.png?scale-down-to=1024&width=2400&height=1546 1024w,https://framerusercontent.com/images/spBrMHSJDqNqrnF6AmRafGOyfR8.png?scale-down-to=2048&width=2400&height=1546 2048w,https://framerusercontent.com/images/spBrMHSJDqNqrnF6AmRafGOyfR8.png?width=2400&height=1546 2400w",
+        "pixelWidth": 2400,
+        "pixelHeight": 1546
+      }
+    },
+    "dMNfQRUur": {
+      "type": "String",
+      "value": "Ditch the static PDF. This Framer template gives modern brands and creative teams one always-on link for everything brand-related — so stakeholders get instant access to guidelines that are actually up to date. Responsive, easy to edit, and built to scale."
+    },
+    "p1hJ56pgX": {
+      "type": "Boolean",
+      "value": true
+    },
+    "KwBBA4QOF": {
+      "type": "Boolean",
+      "value": true
+    },
+    "u1Ii1mqNz": {
+      "type": "Boolean",
+      "value": false
+    },
+    "NO5E1UpCq": {
+      "type": "Boolean",
+      "value": false
+    },
+    "lC70vbB89": {
+      "type": "Boolean",
+      "value": false
+    }
+  },
+  {
+    "id": {
+      "type": "String",
+      "value": "FhNy_F1cS"
+    },
+    "createdAt": {
+      "type": "Date",
+      "value": "2026-01-20T13:32:16.280Z"
+    },
+    "updatedAt": {
+      "type": "Date",
+      "value": "2026-04-23T19:00:16.471Z"
+    },
+    "previousItemId": {
+      "type": "String",
+      "value": "FkD5UpCuR"
+    },
+    "EYQHoD02s": {
+      "type": "String",
+      "value": "Portfolio"
+    },
+    "JAUP8TSMy": {
+      "type": "String",
+      "value": "Leave behind static PDFs and upgrade to a truly interactive brand experience. This Framer template gives modern brands and creative teams a flexible, always-available hub for everything brand-related. Instead of juggling outdated files, simply share one link — giving stakeholders instant access to the most up-to-date guidelines. Fully responsive, easy to edit, and designed to scale, it’s the smarter way to keep your brand consistent and engaging."
+    },
+    "GuHqIwurN": {
+      "type": "String",
+      "value": "Webdesign"
+    },
+    "NKP0MCUkZ": {
+      "type": "String",
+      "value": "Jacob Schneider"
+    },
+    "U7hlzB8RK": {
+      "type": "Link",
+      "value": "https://intothegreatwideopen.nl/en/"
+    },
+    "Ur4SttHa6": {
+      "type": "String",
+      "value": "portfolio"
+    },
+    "DlazAUCKO": {
+      "type": "Date",
+      "value": "2025-12-05T00:00:00.000Z"
+    },
+    "Rlih7XiX5": {
+      "type": "ResponsiveImage",
+      "value": {
+        "src": "https://framerusercontent.com/images/04BsdStEH6nu1XheuQzFg8U.png?width=2794&height=1516",
+        "srcSet": "https://framerusercontent.com/images/04BsdStEH6nu1XheuQzFg8U.png?scale-down-to=512&width=2794&height=1516 512w,https://framerusercontent.com/images/04BsdStEH6nu1XheuQzFg8U.png?scale-down-to=1024&width=2794&height=1516 1024w,https://framerusercontent.com/images/04BsdStEH6nu1XheuQzFg8U.png?scale-down-to=2048&width=2794&height=1516 2048w,https://framerusercontent.com/images/04BsdStEH6nu1XheuQzFg8U.png?width=2794&height=1516 2794w",
+        "pixelWidth": 2794,
+        "pixelHeight": 1516,
+        "alt": "Purple Flower"
+      }
+    },
+    "J09A9r88S": {
+      "type": "ResponsiveImage",
+      "value": {
+        "src": "https://framerusercontent.com/images/7Ql70vlkfOIWBKufurqilnPCVVY.png?width=2402&height=1518",
+        "srcSet": "https://framerusercontent.com/images/7Ql70vlkfOIWBKufurqilnPCVVY.png?scale-down-to=512&width=2402&height=1518 512w,https://framerusercontent.com/images/7Ql70vlkfOIWBKufurqilnPCVVY.png?scale-down-to=1024&width=2402&height=1518 1024w,https://framerusercontent.com/images/7Ql70vlkfOIWBKufurqilnPCVVY.png?scale-down-to=2048&width=2402&height=1518 2048w,https://framerusercontent.com/images/7Ql70vlkfOIWBKufurqilnPCVVY.png?width=2402&height=1518 2402w",
+        "pixelWidth": 2402,
+        "pixelHeight": 1518
+      }
+    },
+    "RvHgf0b4X": {
+      "type": "ResponsiveImage",
+      "value": {
+        "src": "https://framerusercontent.com/images/VmJcjighQyddpbh6g4gA6EzrLs.png?width=2402&height=1518",
+        "srcSet": "https://framerusercontent.com/images/VmJcjighQyddpbh6g4gA6EzrLs.png?scale-down-to=512&width=2402&height=1518 512w,https://framerusercontent.com/images/VmJcjighQyddpbh6g4gA6EzrLs.png?scale-down-to=1024&width=2402&height=1518 1024w,https://framerusercontent.com/images/VmJcjighQyddpbh6g4gA6EzrLs.png?scale-down-to=2048&width=2402&height=1518 2048w,https://framerusercontent.com/images/VmJcjighQyddpbh6g4gA6EzrLs.png?width=2402&height=1518 2402w",
+        "pixelWidth": 2402,
+        "pixelHeight": 1518
+      }
+    },
+    "Vkfmo1sHm": {
+      "type": "Boolean",
+      "value": true
+    },
+    "SayF5mv2W": {
+      "type": "ResponsiveImage",
+      "value": {
+        "src": "https://framerusercontent.com/images/Y3IibQZWBEWsmxeoiAXODw2L01E.png?width=2402&height=1518",
+        "srcSet": "https://framerusercontent.com/images/Y3IibQZWBEWsmxeoiAXODw2L01E.png?scale-down-to=512&width=2402&height=1518 512w,https://framerusercontent.com/images/Y3IibQZWBEWsmxeoiAXODw2L01E.png?scale-down-to=1024&width=2402&height=1518 1024w,https://framerusercontent.com/images/Y3IibQZWBEWsmxeoiAXODw2L01E.png?scale-down-to=2048&width=2402&height=1518 2048w,https://framerusercontent.com/images/Y3IibQZWBEWsmxeoiAXODw2L01E.png?width=2402&height=1518 2402w",
+        "pixelWidth": 2402,
+        "pixelHeight": 1518
+      }
+    },
+    "dMNfQRUur": {
+      "type": "String",
+      "value": ""
+    },
+    "p1hJ56pgX": {
+      "type": "Boolean",
+      "value": false
+    },
+    "KwBBA4QOF": {
+      "type": "Boolean",
+      "value": true
+    },
+    "h4eFqeqbu": {
+      "type": "ResponsiveImage",
+      "value": {
+        "src": "https://framerusercontent.com/images/9U1gRD7z6ml0HeE98HIKsHlL6bE.png?width=2940&height=1840",
+        "srcSet": "https://framerusercontent.com/images/9U1gRD7z6ml0HeE98HIKsHlL6bE.png?scale-down-to=512&width=2940&height=1840 512w,https://framerusercontent.com/images/9U1gRD7z6ml0HeE98HIKsHlL6bE.png?scale-down-to=1024&width=2940&height=1840 1024w,https://framerusercontent.com/images/9U1gRD7z6ml0HeE98HIKsHlL6bE.png?scale-down-to=2048&width=2940&height=1840 2048w,https://framerusercontent.com/images/9U1gRD7z6ml0HeE98HIKsHlL6bE.png?width=2940&height=1840 2940w",
+        "pixelWidth": 2940,
+        "pixelHeight": 1840
+      }
+    },
+    "u1Ii1mqNz": {
+      "type": "Boolean",
+      "value": false
+    },
+    "NO5E1UpCq": {
+      "type": "Boolean",
+      "value": false
+    },
+    "lC70vbB89": {
+      "type": "Boolean",
+      "value": false
+    }
+  }
+]

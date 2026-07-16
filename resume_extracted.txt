@@ -1,0 +1,69 @@
+D H R U V  S O N I Backend Developer  
+7456024832 | dhruvsoni930@gmail.com  |  
+Agra, UP | linkedin.com/in/dhruv-soni-094811285  
+C A RE E R S U M MAR Y 
+Motivated and detail-oriented Backend Developer currently pursuing an Integrated MCA (5th Year, 9th Semester) at Raja 
+Balwant Singh Management and Technical Campus, Agra. Proficient in building scalable web applications using Python, 
+Node.js, and modern frontend technologies such as React.js and Tailwind CSS. Hands-on experience through multiple self-
+initiated projects and freelance engagements, demonstrating strong problem -solving skills and a commitment to delivering 
+high-quality, efficient code. Passionate about creating robust backend systems and seamlessly integrating them with intuitive 
+user interfaces. 
+ 
+E X P E RT IS E 
+Backend Development | RESTful API Design | Database Management | Frontend Development | UI/UX Implementation | 
+Freelance Project Delivery | Version Control (Git/GitHub) | Agile Development | Creative Design (Adobe Suite) | Full -Stack 
+Integration 
+ 
+T EC HN IC AL  S K IL L S 
+Python | Node.js | React.js | JavaScript | HTML | CSS | Tailwind CSS | MongoDB | Firebase | GitHub | Adobe Illustrator | Adob e 
+Photoshop 
+ 
+P RO F ES S IO N AL  E X P E R I EN C E 
+FREELANCE BACKEND DEVELOPER | Self-Employed | Agra, UP 2022 – Present 
+Delivered end-to-end web development solutions for clients, handling backend architecture, frontend implementation, and 
+deployment. 
+• Designed and developed RESTful APIs using Node.js and Python, integrating with MongoDB and Firebase for multiple 
+client projects. 
+• Built responsive frontends using React.js, Tailwind CSS, HTML, and CSS, ensuring seamless cross -device user 
+experiences. 
+• Maintained version control and collaborative workflows using GitHub, consistently delivering projects on time.  
+ 
+P RO J EC T S 
+HOMEDINE – ECO-FRIENDLY KITCHENWARE E-COMMERCE homedineecommerce.netlify.app 
+A fully functional e-commerce platform for premium eco-friendly kitchenware, featuring product listings, cart management, and 
+a clean shopping experience. 
+• Developed a responsive storefront with product browsing, search, and cart functionality using React.js and Tailwind 
+CSS. 
+• Integrated backend services for product management and order handling, deployed on Netlify for continuous delivery.  
+• Applied custom graphic design using Adobe Illustrator and Photoshop for product visuals and branding assets.  
+ 
+CODEPOLARITY – ALL-IN-ONE CODING LEARNING PLATFORM codepolarity.me 
+A comprehensive coding platform featuring an online code editor, 20+ programming cheatsheets, a typing tutor, video 
+courses, and AI assistance — all free and accessible without sign-up. 
+• Built a professional-grade browser-based code editor with syntax highlighting, autocomplete, and live execution 
+support for 20+ languages. 
+• Created 20+ cheatsheets covering Python, JavaScript, React, CSS, Git, and more, along with a specialized coding 
+typing tutor with progress tracking. 
+• Deployed and maintained the platform using Firebase and Node.js backend, with user auth and profile management 
+features. 
+ 
+ 
+ 
+ 
+SAMARTH CHAUHAN – ABSTRACT ART PORTFOLIO | Freelance samarthchauhan-portfolio-28903.firebaseapp.com 
+Designed and developed a visually rich portfolio website for an abstract artist, showcasing their artwork, biography, service s, 
+and exhibition history in an elegant, gallery-style layout. 
+• Built a multi-page site with dedicated sections for portfolio gallery, artist bio, services (commissions, consultations), 
+and a contact form. 
+• Deployed on Firebase Hosting with optimized image loading for a smooth, gallery -quality browsing experience. 
+• Leveraged Adobe Illustrator and Photoshop skills to refine visual assets and maintain a cohesive aesthetic aligned 
+with the client's artistic brand. 
+ 
+ 
+L AN G UA G ES 
+Hindi (Native) | English (Intermediate) | Japanese (Beginner – JLPT N5 Level) 
+ 
+E D UC AT IO N 
+MCA INTEGRATED - (5TH YEAR, 9TH SEMESTER) | 
+Raja Balwant Singh Management and Technical Campus, Agra 
+ 2021 – Present 

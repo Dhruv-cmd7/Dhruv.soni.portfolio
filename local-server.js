@@ -37,6 +37,7 @@ function resolveFile(urlPath) {
 }
 
 http.createServer((req, res) => {
+  console.log(`[Request] ${req.method} ${req.url} - Range: ${req.headers.range || 'none'}`);
   const file = resolveFile(req.url || "/");
   if (!file) {
     res.writeHead(403);
@@ -51,11 +52,60 @@ http.createServer((req, res) => {
       return;
     }
 
-    res.writeHead(200, {
-      "Content-Type": types[path.extname(file).toLowerCase()] || "application/octet-stream"
-    });
-    res.end(data);
+    const contentType = types[path.extname(file).toLowerCase()] || "application/octet-stream";
+    const headers = {
+      "Content-Type": contentType,
+      "Accept-Ranges": "bytes",
+      "Access-Control-Allow-Origin": "*",
+      "Access-Control-Allow-Headers": "Range",
+      "Access-Control-Expose-Headers": "Content-Range, Content-Length, Accept-Ranges"
+    };
+
+    let range = req.headers.range;
+    let isQueryRange = false;
+    const queryIndex = req.url.indexOf('?');
+    if (queryIndex !== -1) {
+      const queryString = req.url.substring(queryIndex + 1);
+      const params = new URLSearchParams(queryString);
+      const rangeParam = params.get('range');
+      if (rangeParam) {
+        range = `bytes=${rangeParam}`;
+        isQueryRange = true;
+      }
+    }
+
+    if (range) {
+      const parts = range.replace(/bytes=/, "").split("-");
+      const start = parseInt(parts[0], 10);
+      const end = parts[1] ? parseInt(parts[1], 10) : data.length - 1;
+
+      if (isNaN(start) || start >= data.length || end >= data.length || start > end) {
+        res.writeHead(416, {
+          "Content-Range": `bytes */${data.length}`,
+          "Access-Control-Allow-Origin": "*"
+        });
+        res.end();
+        return;
+      }
+
+      const chunk = data.subarray(start, end + 1);
+      headers["Content-Length"] = chunk.length;
+
+      if (isQueryRange) {
+        // Query-parameter range requests expect status 200
+        res.writeHead(200, headers);
+      } else {
+        // HTTP header Range requests expect status 206
+        headers["Content-Range"] = `bytes ${start}-${end}/${data.length}`;
+        res.writeHead(206, headers);
+      }
+      res.end(chunk);
+    } else {
+      headers["Content-Length"] = data.length;
+      res.writeHead(200, headers);
+      res.end(data);
+    }
   });
 }).listen(port, "127.0.0.1", () => {
-  console.log(`Serving Jacob Schneider clone at http://127.0.0.1:${port}/`);
+  console.log(`Serving Dhruv Soni clone at http://127.0.0.1:${port}/`);
 });
