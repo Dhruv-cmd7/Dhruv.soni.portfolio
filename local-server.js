@@ -15,7 +15,8 @@ const types = {
   ".jpg": "image/jpeg",
   ".jpeg": "image/jpeg",
   ".svg": "image/svg+xml",
-  ".wav": "audio/wav"
+  ".wav": "audio/wav",
+  ".mp4": "video/mp4"
 };
 
 function resolveFile(urlPath) {
